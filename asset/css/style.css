@@ -405,6 +405,7 @@ body.hidden {
 .gnb .header-wrap .header-tab-list {
   display: flex;
   justify-content: space-between;
+  overflow: hidden;
 }
 .gnb .header-wrap .header-tab-list .header-tab-item {
   padding: 10px 12px;
