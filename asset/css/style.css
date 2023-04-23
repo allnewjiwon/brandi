@@ -263,6 +263,9 @@ body.hidden {
   display: block;
   background: url(../images/mark.png) no-repeat center/cover;
 }
+.footer .certi-area .info-certi {
+  flex: auto;
+}
 .footer .certi-area .info-certi .fx {
   display: flex;
   gap: 10px;
